@@ -1,0 +1,7 @@
+C:\Users\Nicholas Mistretta\Desktop\C#\Sodoku Solver\SodokuSolver\bin\Debug\SodokuSolver.exe.config
+C:\Users\Nicholas Mistretta\Desktop\C#\Sodoku Solver\SodokuSolver\bin\Debug\SodokuSolver.exe
+C:\Users\Nicholas Mistretta\Desktop\C#\Sodoku Solver\SodokuSolver\bin\Debug\SodokuSolver.pdb
+C:\Users\Nicholas Mistretta\Desktop\C#\Sodoku Solver\SodokuSolver\obj\Debug\SodokuSolver.csprojResolveAssemblyReference.cache
+C:\Users\Nicholas Mistretta\Desktop\C#\Sodoku Solver\SodokuSolver\obj\Debug\SodokuSolver.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas Mistretta\Desktop\C#\Sodoku Solver\SodokuSolver\obj\Debug\SodokuSolver.exe
+C:\Users\Nicholas Mistretta\Desktop\C#\Sodoku Solver\SodokuSolver\obj\Debug\SodokuSolver.pdb
