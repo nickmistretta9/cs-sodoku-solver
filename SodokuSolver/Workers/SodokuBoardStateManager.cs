@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SodokuSolver.Workers
 {
-    class SodokuBoardStateManager
+    public class SodokuBoardStateManager
     {
         public string GenerateState(int[,] sodokuBoard)
         {
