@@ -1,0 +1,17 @@
+C:\Users\Nicholas Mistretta\Desktop\C#\Sodoku Solver\SodokuSolver\SodokuSolver.Test.Unit\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Nicholas Mistretta\Desktop\C#\Sodoku Solver\SodokuSolver\SodokuSolver.Test.Unit\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Nicholas Mistretta\Desktop\C#\Sodoku Solver\SodokuSolver\SodokuSolver.Test.Unit\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Nicholas Mistretta\Desktop\C#\Sodoku Solver\SodokuSolver\SodokuSolver.Test.Unit\bin\Debug\netcoreapp2.0\SodokuSolver.Test.Unit.deps.json
+C:\Users\Nicholas Mistretta\Desktop\C#\Sodoku Solver\SodokuSolver\SodokuSolver.Test.Unit\bin\Debug\netcoreapp2.0\SodokuSolver.Test.Unit.runtimeconfig.json
+C:\Users\Nicholas Mistretta\Desktop\C#\Sodoku Solver\SodokuSolver\SodokuSolver.Test.Unit\bin\Debug\netcoreapp2.0\SodokuSolver.Test.Unit.runtimeconfig.dev.json
+C:\Users\Nicholas Mistretta\Desktop\C#\Sodoku Solver\SodokuSolver\SodokuSolver.Test.Unit\bin\Debug\netcoreapp2.0\SodokuSolver.Test.Unit.dll
+C:\Users\Nicholas Mistretta\Desktop\C#\Sodoku Solver\SodokuSolver\SodokuSolver.Test.Unit\bin\Debug\netcoreapp2.0\SodokuSolver.Test.Unit.pdb
+C:\Users\Nicholas Mistretta\Desktop\C#\Sodoku Solver\SodokuSolver\SodokuSolver.Test.Unit\bin\Debug\netcoreapp2.0\SodokuSolver.exe
+C:\Users\Nicholas Mistretta\Desktop\C#\Sodoku Solver\SodokuSolver\SodokuSolver.Test.Unit\bin\Debug\netcoreapp2.0\SodokuSolver.pdb
+C:\Users\Nicholas Mistretta\Desktop\C#\Sodoku Solver\SodokuSolver\SodokuSolver.Test.Unit\bin\Debug\netcoreapp2.0\SodokuSolver.exe.config
+C:\Users\Nicholas Mistretta\Desktop\C#\Sodoku Solver\SodokuSolver\SodokuSolver.Test.Unit\obj\Debug\netcoreapp2.0\SodokuSolver.Test.Unit.csprojResolveAssemblyReference.cache
+C:\Users\Nicholas Mistretta\Desktop\C#\Sodoku Solver\SodokuSolver\SodokuSolver.Test.Unit\obj\Debug\netcoreapp2.0\SodokuSolver.Test.Unit.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas Mistretta\Desktop\C#\Sodoku Solver\SodokuSolver\SodokuSolver.Test.Unit\obj\Debug\netcoreapp2.0\SodokuSolver.Test.Unit.AssemblyInfoInputs.cache
+C:\Users\Nicholas Mistretta\Desktop\C#\Sodoku Solver\SodokuSolver\SodokuSolver.Test.Unit\obj\Debug\netcoreapp2.0\SodokuSolver.Test.Unit.AssemblyInfo.cs
+C:\Users\Nicholas Mistretta\Desktop\C#\Sodoku Solver\SodokuSolver\SodokuSolver.Test.Unit\obj\Debug\netcoreapp2.0\SodokuSolver.Test.Unit.dll
+C:\Users\Nicholas Mistretta\Desktop\C#\Sodoku Solver\SodokuSolver\SodokuSolver.Test.Unit\obj\Debug\netcoreapp2.0\SodokuSolver.Test.Unit.pdb
