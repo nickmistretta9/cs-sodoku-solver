@@ -70,7 +70,7 @@ namespace SodokuSolver.Strategies
 
         private bool HasNakedPairInCol(int[,] sodokuBoard, int givenRow, int givenCol)
         {
-            for (int row = 0; row < sodokuBoard.GetLength(1); row++)
+            for (int row = 0; row < sodokuBoard.GetLength(0); row++)
             {
                 if (givenRow != row && IsNakedPair(sodokuBoard[row, givenCol], sodokuBoard[givenRow, givenCol]))
                     return true;
@@ -85,9 +85,9 @@ namespace SodokuSolver.Strategies
 
             var sodokuMap = _sodokuMapper.Find(givenRow, givenCol);
 
-            for (int row = sodokuMap.StartRow; row < sodokuMap.StartRow + 2; row++)
+            for (int row = sodokuMap.StartRow; row <= sodokuMap.StartRow + 2; row++)
             {
-                for (int col = sodokuMap.StartCol; col < sodokuMap.StartCol + 2; col++)
+                for (int col = sodokuMap.StartCol; col <= sodokuMap.StartCol + 2; col++)
                 {
                     if (sodokuBoard[row, col].ToString().Length > 1 && sodokuBoard[row, col] != sodokuBoard[givenRow, givenCol])
                         EliminateNakedPair(sodokuBoard, sodokuBoard[givenRow, givenCol], givenRow, givenCol);
@@ -105,7 +105,7 @@ namespace SodokuSolver.Strategies
                     var elementInSameBlock = _sodokuMapper.Find(givenRow, givenCol).StartRow == _sodokuMapper.Find(row, col).StartRow &&
                         _sodokuMapper.Find(givenRow, givenCol).StartCol == _sodokuMapper.Find(row, col).StartCol;
 
-                    if (!elementsSame && elementInSameBlock && !IsNakedPair(sodokuBoard[givenRow, givenCol], sodokuBoard[row, col]))
+                    if (!elementsSame && elementInSameBlock && IsNakedPair(sodokuBoard[givenRow, givenCol], sodokuBoard[row, col]))
                         return true;
                 }
             }

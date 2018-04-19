@@ -51,9 +51,9 @@ namespace SodokuSolver.Strategies
         {
             int[] possibilities = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
             var sodokuMap = _sodokuMapper.Find(givenRow, givenCol);
-            for (int row = sodokuMap.StartRow; row < sodokuMap.StartRow + 2; row++)
+            for (int row = sodokuMap.StartRow; row <= sodokuMap.StartRow + 2; row++)
             {
-                for (int col = sodokuMap.StartCol; col < sodokuMap.StartCol + 2; col++)
+                for (int col = sodokuMap.StartCol; col <= sodokuMap.StartCol + 2; col++)
                 {
                     if(IsValidSingle(sodokuBoard[row, col]))
                     {

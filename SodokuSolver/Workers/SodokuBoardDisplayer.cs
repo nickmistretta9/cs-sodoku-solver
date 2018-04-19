@@ -18,7 +18,7 @@ namespace SodokuSolver.Workers
                 Console.Write("|");
                 for(int col=0; col<sodokuBoard.GetLength(1); col++)
                 {
-                    Console.WriteLine("{0}{1}", sodokuBoard[row, col], "|");
+                    Console.Write("{0}{1}", sodokuBoard[row, col], "|");
                 }
                 Console.WriteLine();
             }
