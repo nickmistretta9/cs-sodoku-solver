@@ -18,6 +18,8 @@ namespace SodokuSolver.Strategies
         public bool Solve(int[,] sodokuBoard)
         {
             List<ISodokuStrategy> strategies = new List<ISodokuStrategy>() {
+                new SimpleMarkupStrategy(_sodokuMapper),
+                new NakedPairsStrategy(_sodokuMapper)
             };
 
             var currentState = _sodokuBoardStateManager.GenerateState(sodokuBoard);
